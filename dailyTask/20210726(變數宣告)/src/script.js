@@ -3,7 +3,7 @@
 // 2.請宣告 let 變數名稱為 courseProgress ，並賦予值 0 。
 // 3.請宣告 const 變數名稱為 teacher ，並賦予值為字串 廖洧杰。
 // 4.請宣告 const 變數名稱為 activity ，並賦予值為字串 六角筆記王：寫作吧！用文字喚醒你的前端魂 !
-// 5.請宣告 let 變數名稱為 prize ，並賦予值為字串 小米小愛音箱 Art、米家無線吸塵器 mini、小米手環
+// 5.請宣告 let 變數名稱為 prize ，並賦予值為字串 小米小愛音箱 Art、米家無線吸塵器 mini、小米手環。
 
 const courseTitle = "JavaScript 必修篇 - 前端修練全攻略";
 let courseProgress = 0;
