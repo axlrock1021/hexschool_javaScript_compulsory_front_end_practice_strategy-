@@ -1,0 +1,13 @@
+ul {
+  list-style: none;
+}
+
+.card-content {
+  width: 85%;
+  margin: -70px auto 20px;
+  position: relative;
+}
+
+.title,.card-title{
+  text-align: center;
+}
