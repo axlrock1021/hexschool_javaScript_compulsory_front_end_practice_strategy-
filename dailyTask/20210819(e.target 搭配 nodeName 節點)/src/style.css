@@ -1,0 +1,38 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: bottom;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+.product-img {
+  position: relative;
+  overflow: hidden;
+}
+
+.fa-heart {
+  position: absolute;
+  color: red;
+  font-size: 20px;
+  top: 19px;
+  left: 20px;
+}
+
+.fa-heart:hover {
+  color: tomato;
+}
+
+.add-cart {
+  width: 100%;
+  font-size: 20px;
+}
