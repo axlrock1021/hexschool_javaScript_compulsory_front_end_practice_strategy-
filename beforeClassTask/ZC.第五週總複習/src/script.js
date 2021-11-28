@@ -99,7 +99,7 @@
   c.填空處一 ： array.name 、 填空處二 ： array.category[0]。
   d.填空處一 ： item.name 、 填空處二 ： item.category[0]。
 
-  ans : a;   
+  ans : d;   
 */
 
 /*
